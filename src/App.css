@@ -1,0 +1,20 @@
+/* Base mínima para não conflitar com Tailwind */
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 1.25rem; /* 20px */
+  text-align: initial; /* <— tirar centralização global */
+}
+
+/* Cartão genérico do template (você usa o seu Card em TSX) */
+.card {
+  padding: 2rem;
+}
+
+/* Texto auxiliar do template */
+.read-the-docs {
+  color: #888;
+}
+
+/* Removidos estilos/anim de .logo do template Vite
+   para não poluir e nem interferir no layout */
