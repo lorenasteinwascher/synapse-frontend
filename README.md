@@ -115,4 +115,4 @@ Estilo padronizado <br>
 <br>
 🌐 Deploy no Vercel: https://synapse-frontend-8fl5.vercel.app/ <br>
 <br>
-🎥 Vídeo de Apresentação no YouTube:  <br>
+🎥 Vídeo de Apresentação no YouTube: https://www.youtube.com/watch?v=fRsY-XQNUeI <br>
